@@ -1,0 +1,2 @@
+# WannaDie
+Successor to WannaCry
