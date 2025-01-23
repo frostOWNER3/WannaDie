@@ -1,0 +1,40 @@
+=== System Info ===
+platform: Windows
+platform-release: 10
+platform-version: 10.0.19041
+architecture: AMD64
+hostname: DESKTOP-ET51AJO
+ip-address: 172.16.1.3
+mac-address: 2c:56:dc:e8:56:5f
+processor: Intel64 Family 6 Model 85 Stepping 7, GenuineIntel
+ram: 4 GB
+
+=== Disk Info ===
+Disk 1:
+  device: C:\
+  mountpoint: C:\
+  fstype: NTFS
+  total: 238.47 GB
+  used: 194.06 GB
+  free: 44.41 GB
+  percent: 81.4
+
+=== Network Info ===
+Interface 1:
+  interface: Ethernet
+  address: 172.16.1.3
+  netmask: 255.255.255.0
+  broadcast: None
+Interface 2:
+  interface: Loopback Pseudo-Interface 1
+  address: 127.0.0.1
+  netmask: 255.0.0.0
+  broadcast: None
+
+=== User Accounts ===
+User 1:
+  username: Bruno
+  terminal: None
+  host: None
+  started: 2025-01-22 11:56:05.927821
+  pid: None
