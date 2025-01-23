@@ -1,0 +1,40 @@
+=== System Info ===
+platform: Windows
+platform-release: 10
+platform-version: 10.0.19044
+architecture: AMD64
+hostname: 965543
+ip-address: 192.168.122.101
+mac-address: 80:65:83:4f:2b:02
+processor: Intel64 Family 6 Model 85 Stepping 7, GenuineIntel
+ram: 8 GB
+
+=== Disk Info ===
+Disk 1:
+  device: C:\
+  mountpoint: C:\
+  fstype: NTFS
+  total: 223.5 GB
+  used: 55.0 GB
+  free: 168.5 GB
+  percent: 24.6
+
+=== Network Info ===
+Interface 1:
+  interface: Ethernet
+  address: 192.168.122.101
+  netmask: 255.255.255.0
+  broadcast: None
+Interface 2:
+  interface: Loopback Pseudo-Interface 1
+  address: 127.0.0.1
+  netmask: 255.0.0.0
+  broadcast: None
+
+=== User Accounts ===
+User 1:
+  username: Bruno
+  terminal: None
+  host: None
+  started: 2025-01-21 09:57:01.221897
+  pid: None
