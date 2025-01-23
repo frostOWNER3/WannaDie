@@ -1,0 +1,48 @@
+=== System Info ===
+platform: Windows
+platform-release: 10
+platform-version: 10.0.15063
+architecture: AMD64
+hostname: WIN-5E07COS9ALR
+ip-address: 192.168.0.44
+mac-address: 00:15:5d:00:1f:40
+processor: Intel64 Family 6 Model 79 Stepping 1, GenuineIntel
+ram: 1 GB
+
+=== Disk Info ===
+Disk 1:
+  device: C:\
+  mountpoint: C:\
+  fstype: NTFS
+  total: 40.0 GB
+  used: 14.36 GB
+  free: 25.64 GB
+  percent: 35.9
+Disk 2:
+  device: D:\
+  mountpoint: D:\
+  fstype: NTFS
+  total: 64.0 GB
+  used: 0.13 GB
+  free: 63.87 GB
+  percent: 0.2
+
+=== Network Info ===
+Interface 1:
+  interface: Ethernet 4
+  address: 192.168.0.44
+  netmask: 255.255.0.0
+  broadcast: None
+Interface 2:
+  interface: Loopback Pseudo-Interface 1
+  address: 127.0.0.1
+  netmask: 255.0.0.0
+  broadcast: None
+
+=== User Accounts ===
+User 1:
+  username: Abby
+  terminal: None
+  host: None
+  started: 2025-01-21 07:56:56.657940
+  pid: None
